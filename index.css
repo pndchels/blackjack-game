@@ -1,0 +1,30 @@
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", Arial,
+    sans-serif;
+  background-image: url("images/car.jpg");
+  background-size: cover;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  color: rgb(192, 12, 12);
+}
+
+#message-el {
+  font-style: italic bold;
+}
+
+button {
+  color: white;
+  width: 150px;
+  background: rgb(192, 12, 12);
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-weight: bold;
+  border: none;
+  border-radius: 2px;
+  margin-bottom: 2px;
+  margin-top: 2px;
+}
